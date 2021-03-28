@@ -1,0 +1,12 @@
+@import 'variables';
+
+h1 {
+    color: $red--color;
+    font-size: 16px;
+    background-color: $background-color;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: blue;
+}
